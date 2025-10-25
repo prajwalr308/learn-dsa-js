@@ -1,1 +1,0 @@
-function subArraySumEqualsK(nums, k) {}
